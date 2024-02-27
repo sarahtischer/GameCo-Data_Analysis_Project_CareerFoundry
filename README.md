@@ -3,12 +3,6 @@
 ## Overview
 As an analyst for GameCo, a new video game company, the objective is to perform a descriptive analysis of a video game dataset to gain insights into the video game market. By analyzing historical sales data spanning different platforms, genres, and publishing studios, the aim is to inform the development of new games and understand market dynamics.
 
-## Data Set
-The dataset used covers historical sales of video games from 1980 to 2016, sourced from VGChartz. Important points about the dataset:
-* Tracks total units of games sold (in millions).
-* Spans various platforms, genres, and publishing studios.
-* Data includes games that sold more than 10,000 copies.
-
 ## Project Tasks & Deliverables
 * Identify areas of interest within data analytics
 * Utilize Excel for data manipulation and visualization
@@ -20,6 +14,12 @@ The dataset used covers historical sales of video games from 1980 to 2016, sourc
 * Develop insights for marketing budget allocation
 * Create various visualizations to understand sales patterns
 * Produce a narrative presentation communicating analytical findings
+
+## Data Set
+The dataset used covers historical sales of video games from 1980 to 2016, sourced from VGChartz. Important points about the dataset:
+* Tracks total units of games sold (in millions).
+* Spans various platforms, genres, and publishing studios.
+* Data includes games that sold more than 10,000 copies.
 
 ## Tools
 The primary tool used for data analysis and visualization is Microsoft Excel.
