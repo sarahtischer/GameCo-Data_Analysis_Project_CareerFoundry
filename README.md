@@ -1,5 +1,5 @@
 # GameCo Video Game Popularity Data Analysis Project
-<img src="GameCo_logo.png" alt="GameCo logo" style="width:400px;height:200px;">
+<img src="GameCo_logo.svg" alt="GameCo logo" style="width:300px;height:120px;">
 
 ## Overview
 As an analyst for GameCo, a new video game company, the objective is to perform a descriptive analysis of a video game dataset to gain insights into the video game market. By analyzing historical sales data spanning different platforms, genres, and publishing studios, the aim is to inform the development of new games and understand market dynamics.
