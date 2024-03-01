@@ -6,7 +6,7 @@ As an analyst for GameCo, a new video game company, the objective is to perform 
 
 ## Project Tasks & Deliverables
 * Identify areas of interest within data analytics
-* Utilize Excel for data manipulation and visualization
+* Use Excel for data manipulation and visualization
 * Explore the dimensions and characteristics of the video game sales dataset
 * Cleanse the dataset to address inconsistencies
 * Transform and analyze sales data to identify trends and patterns
@@ -17,7 +17,7 @@ As an analyst for GameCo, a new video game company, the objective is to perform 
 * Produce a narrative presentation communicating analytical findings
 
 ## Data Set
-The dataset used covers historical sales of video games from 1980 to 2016, sourced from VGChartz. Important points about the dataset:
+The dataset covers historical sales of video games from 1980 to 2016, sourced from VGChartz. Important points about the dataset:
 * Tracks total units of games sold (in millions).
 * Spans various platforms, genres, and publishing studios.
 * Data includes games that sold more than 10,000 copies.
