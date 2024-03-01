@@ -26,7 +26,7 @@ The dataset covers historical sales of video games from 1980 to 2016, sourced fr
 The primary tool used for data analysis and visualization is Microsoft Excel.
 
 ## Visualizations
-Visualizations created during the project using Microsoft Excelwill be included in the final presentation, showcasing insights derived from the data analysis process.
+Visualizations created during the project using Microsoft Excel will be included in the final presentation, showcasing insights derived from the data analysis process.
 
 ## Summary
 The Video Game Popularity Data Analysis Project aims to leverage data-driven insights to inform game development strategies for GameCo. Through a series of exercises covering data exploration, cleaning, analysis, and visualization, the project provides actionable insights into video game sales trends and market dynamics. By applying analytical methods and visual storytelling techniques, the project demonstrates the significance of data analytics in guiding strategic decision-making in the gaming industry.
